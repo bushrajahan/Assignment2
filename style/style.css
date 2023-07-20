@@ -398,8 +398,8 @@ background:  lightgray -7.583px 0px / 102.389% 100% no-repeat;
     position: relative;
     width: 50%;
     
-top: -180px;
-left: -50px;
+top: -200px;
+left: -100px;
 flex-shrink: 0;
 border-radius: 8px;
 border: 10px solid #FFF;
@@ -610,10 +610,10 @@ header{
 }
 
 .one-icon p{
-  font-size: 7px;
+  font-size: 4px;
 }
 .one-icon img{
-  width: 15px;
+  width: 10px;
 }
 .play-container{
   flex-direction: column;
